@@ -1,3 +1,3 @@
 # LetsModReboot
 
-fuck you smartgit nochmal
+fuck you
